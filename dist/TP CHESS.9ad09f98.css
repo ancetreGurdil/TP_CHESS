@@ -1,0 +1,44 @@
+.cell {
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+}
+
+.blackCell {
+  background-color: #322A26
+}
+
+.whiteCell {
+  background-color: #94C5CC;
+}
+
+.litCell {
+  background-color: #FE7F2D;
+}
+
+.row {
+  display: flex;
+}
+
+.blackPiece {
+  color: #191308;
+}
+
+.whitePiece {
+  color: #A1A6B4;
+}
+#grid{
+margin-left:490px;
+margin-top:100px;
+}
+.piece {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: verdana;
+  margin-top: 9px;
+}
+
+
+
+/*# sourceMappingURL=/TP%20CHESS.9ad09f98.css.map */
